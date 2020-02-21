@@ -1,0 +1,23 @@
+{
+  "name": "practicing_typescript",
+  "version": "1.0.0",
+  "description": "Covalence Practicing TypeScript Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NSquale21/practicing-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSquale21/practicing-typescript/issues"
+  },
+  "homepage": "https://github.com/NSquale21/practicing-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
